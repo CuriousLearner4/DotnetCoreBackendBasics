@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App registration: harshaAAD, Tenant: Ariqt International (ariqt.com - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+﻿2024-10-08 13:25:02.229 +05:30 [DBG] In Main method
+2024-10-08 13:25:02.246 +05:30 [VRB] list is created
+2024-10-08 13:25:02.246 +05:30 [WRN] List is empty
+2024-10-08 13:25:02.246 +05:30 [VRB] trying to print to first element of list
+2024-10-08 13:25:02.253 +05:30 [ERR] tried to access element without checking does it contain element
+2024-10-08 13:25:02.270 +05:30 [FTL] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at LogPOC.Program.Main(String[] args) in C:\Users\Work\Desktop\Internship\Interns-BE\Harsha\Logging\Program.cs:line 28
+2024-10-08 13:25:02.271 +05:30 [INF] Hello world! Logging is fun
+2024-10-08 13:25:35.057 +05:30 [DBG] In Main method
+2024-10-08 13:25:35.078 +05:30 [VRB] list is created
+2024-10-08 13:25:35.079 +05:30 [WRN] List is empty
+2024-10-08 13:25:35.080 +05:30 [VRB] trying to print to first element of list
+2024-10-08 13:25:35.088 +05:30 [ERR] tried to access element without checking does it contain element
+2024-10-08 13:25:35.106 +05:30 [FTL] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at LogPOC.Program.Main(String[] args) in C:\Users\Work\Desktop\Internship\Interns-BE\Harsha\Logging\Program.cs:line 28
+2024-10-08 13:25:35.107 +05:30 [INF] Hello world! Logging is fun
